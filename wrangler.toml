@@ -1,7 +1,0 @@
-name = "sitedrafterplus"
-compatibility_date = "2023-12-01"
-main = "worker.js"
-
-[site]
-bucket = "."
-
